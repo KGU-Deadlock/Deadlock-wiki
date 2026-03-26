@@ -2,8 +2,9 @@
 name: 이슈 보고
 about: 버그 또는 기능 요청
 title: "[TYPE] 제목"
-labels: ""
-assignees: ""
+labels: ''
+assignees: ''
+
 ---
 
 ## 유형
